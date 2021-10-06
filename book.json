@@ -32,7 +32,7 @@
 
 	"pluginsConfig": {
 	    "theme-default": {
-	        "showLevel": true
+	        "showLevel": false
 	    },
 	    "tbfed-pagefooter": {
             "copyright": "Copyright (c) 2021 moranthuang.",
