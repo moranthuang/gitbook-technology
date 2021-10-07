@@ -16,18 +16,18 @@
 		"expandable-chapters-small",
 		"-sharing",
 		"search-pro",
-    "copy-code-button",
-    "tbfed-pagefooter",
-    "expandable-chapters",
-    "prism",
-    "advanced-emoji",
-    "lightbox",
-    "lightbox",
-    "favicon",
-    "anchor-navigation-ex",
-    "pageview-count",
-     "prism",
-     "-highlight"
+        "copy-code-button",
+        "tbfed-pagefooter",
+        "expandable-chapters",
+        "prism",
+        "advanced-emoji",
+        "lightbox",
+        "lightbox",
+        "favicon",
+        "anchor-navigation-ex",
+        "pageview-count",
+        "prism",
+        "-highlight"
 	],
 
 	"pluginsConfig": {
@@ -35,9 +35,7 @@
 	        "showLevel": false
 	    },
 	    "tbfed-pagefooter": {
-            "copyright": "Copyright (c) 2021 moranthuang.",
-            "modify_label": "time：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
+            "copyright": "Copyright (c) 2021 moranthuang."
       },
       "favicon": {
          "shortcut": "image/favicon.ico",
